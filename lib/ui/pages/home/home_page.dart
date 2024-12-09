@@ -9,6 +9,7 @@ class HomePage extends ConsumerStatefulWidget {
   ConsumerState<HomePage> createState() => _HomePageState();
 }
 
+//테스트용
 class _HomePageState extends ConsumerState<HomePage> {
   TextEditingController textEditingController = TextEditingController();
   List<Location> locations = [];
