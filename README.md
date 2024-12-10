@@ -1,16 +1,23 @@
-# flutter_book_search_app2
+# flutter_search_app
 
-A new Flutter project.
+Flutter를 기반으로 하는 검색앱입니다
 
-## Getting Started
+## 설치방법
 
-This project is a starting point for a Flutter application.
+1. 이 저장소를 클론합니다
+   ```bash
+   git clone https://github.com/yourusername/flutter_book_search_app2.git
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+2. 프로젝트 디렉토리로 이동합니다
+   ```bash
+   cd flutter_book_search_app2
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. APP을 실행합니다
+   ```bash
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 사용기술
+Flutter, Riverpod
